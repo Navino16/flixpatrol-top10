@@ -43,7 +43,7 @@
     "config": "^5.0.0",
     "file-system-cache": "^2.4.7",
     "impit": "^0.14.1",
-    "jsdom": "^30.0.0",
+    "jsdom": "^31.0.0",
     "node-cron": "^4.6.0",
     "winston": "^3.19.0",
     "zod": "^4.4.3"
